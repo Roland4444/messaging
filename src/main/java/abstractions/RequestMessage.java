@@ -10,7 +10,7 @@ public class RequestMessage implements BinaryMessage {
     public String Description;
     public Date TimeStamp;
     public String addressToReply;
-    public enum Type{request, update};
+    public enum Type{request, update, ask, responce};
     public Type type;
     public RequestMessage(String ID, String Description, String restoredinJSON ){
         this.JSONed = restoredinJSON;
