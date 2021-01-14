@@ -1,3 +1,4 @@
+abstractions/ExchangeView.class
 abstractions/RequestMessage$Type.class
 abstractions/Cypher.class
 abstractions/ResponceMessage.class
