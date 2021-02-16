@@ -1,5 +1,4 @@
 abstractions/RequestMessage$Type.class
-abstractions/InfoMessage.class
 abstractions/Cypher.class
 abstractions/ResponceMessage.class
 abstractions/RequestMessage.class
